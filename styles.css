@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+#f1 {
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	height: 200px;
+	width: 200px;
+	background-color: lightblue;
+	border: 2px solid black;
+}
+#f1 p {
+	color: purple;
+}
