@@ -1,7 +1,6 @@
 /*  your css code here. If applicable */
 #f1 {
 	display: flex;
-	text-align: center;
 	justify-content: center;
 	align-items: center;
 	height: 200px;
